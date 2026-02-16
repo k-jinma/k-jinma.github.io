@@ -1,8 +1,8 @@
 ﻿---
 layout: default
 title: 教材・資料
-nav_order: 4
-has_children: true
+nav_order: 8
+has_children: false
 ---
 
 # 教材・資料
