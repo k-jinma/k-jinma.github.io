@@ -1,6 +1,7 @@
 ﻿# サイト設定
-title: "〇〇研究室"
-description: "システム開発・Javaプログラミング・データベース"
+title: "Java Standardization & Education Lab"
+description: "ソフトウェアアーキテクチャ | プログラミング技術標準化 | プログラミング教育 | 生成AI・Event-Driven Architecture"
+
 baseurl: ""
 url: "https://k-jinma.github.io" # 公開URL（独自ドメイン設定後に変更）
 
