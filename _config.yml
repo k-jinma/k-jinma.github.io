@@ -1,5 +1,5 @@
 ﻿# サイト設定
-title: "Kazuhiro Jinma Laboratory"
+title: "Kazuhiro Jinma Laboratory & Dev"
 description: "ソフトウェアアーキテクチャ | プログラミング技術標準化 | プログラミング教育 | 生成AI・Event-Driven Architecture"
 
 baseurl: ""
@@ -22,7 +22,7 @@ search:
 nav_sort: case_insensitive
 nav_external_links:
   - title: note
-    url: https://note.com/your-account
+    url: https://note.com/k_jinma
     hide_icon: false
 
 # コード関連
