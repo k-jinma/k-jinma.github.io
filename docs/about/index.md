@@ -26,7 +26,7 @@ nav_order: 2
 ### 経歴概要
 20年以上にわたるソフトウェア開発と教育の実務経験を持つ。専門学校での教育マネジメント（教頭・教務部長）、企業でのシステム開発（Pivotal Japan、Microsoft Development等）を経て、現在は大学でIT人材育成に取り組む。文部科学省・厚生労働省の委託事業において実施委員を歴任し、産学官連携活動にも積極的に参画。
 
-詳細: [researchmap](https://researchmap.jp/k-jinma)
+詳細: researchmap
 
 ---
 
@@ -95,8 +95,8 @@ SQL, NoSQL, データモデリング
 
 ### その他の情報発信
 
-- **note**: [https://note.com/your-account](https://note.com/your-account) — 授業レポート、技術解説
-- **GitHub**: [https://github.com/k-jinma](https://github.com/k-jinma) — コード、教材
+- **note**: https://note.com/your-account — 授業レポート、技術解説
+- **GitHub**: https://github.com/k-jinma — コード、教材
 
 ---
 
