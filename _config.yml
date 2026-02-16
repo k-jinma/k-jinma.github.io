@@ -2,7 +2,7 @@
 title: "〇〇研究室"
 description: "システム開発・Javaプログラミング・データベース"
 baseurl: ""
-url: "https://lab.example.jp" # あなたの独自ドメイン
+url: "https://k-jinma.github.io" # 公開URL（独自ドメイン設定後に変更）
 
 # Just the Docsテーマ
 remote_theme: just-the-docs/just-the-docs
